@@ -1,0 +1,5 @@
+/node_modules
+output_images/*
+input_images/*
+package-lock.json
+yarn.lock
